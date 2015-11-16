@@ -107,18 +107,18 @@
 		</td>
 	</tr>
 	<tr>
-		<td id="name">Program</td>
+		<td id="name">Competition</td>
 		<td colspan="2">
 		<center><select name="program">
-			<option> International Cookery </option>
-			<option> Nursing Assistant</option>
-			<option> Associate in Comp. Tech.</option>
-			<option> Mass Comm. Tech.</option>
-			<option> Office Management</option>
-			<option> AB Broadcasting</option>
-			<option> BS Info. Sys.</option>
-			<option> BS Accounting Tech.</option>
-			<option> BS Accountancy</option>
+			<option> General Knowledge </option>
+			<option> Aptitude </option>
+			<option> Essay </option>
+			<option> Science </option>
+			<option> Reasoning </option>
+			<option> Drawing </option>
+			<option> Debate </option>
+			<option> Badminton </option>
+			<option> Chess </option>
 			</select></center>
 		</td>
 	</tr>
